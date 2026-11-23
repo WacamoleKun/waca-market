@@ -1,4 +1,13 @@
 {
   "schemaVersion": 1,
-  "notices": []
+  "notices": [
+    {
+      "id": "7a940a97-ac16-43cc-8d4c-1b36836582cf",
+      "title": "REMPLAZAR TELELATINO POR WACALATINO!",
+      "message": "Tenemos que borrar telelatino y descargar WacaLatino desde la store de WacaZ Para seguir disfrutando del contenido Premium\n(iniciar sesion con la misma cuenta, darle aceptar al VPN)\n\nDisfruten!",
+      "imageUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/notices/7a940a97-ac16-43cc-8d4c-1b36836582cf-09fea93c-3d03-4f53-a405-3ce9c344eb47.webp",
+      "createdAt": 1795418886099,
+      "expiresAt": 0
+    }
+  ]
 }
