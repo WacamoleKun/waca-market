@@ -26,6 +26,19 @@
       "artworkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/banners/com.tivo.wacalatino-d55f1db2-4671-43d1-aad3-1aa25e6dcb43.png",
       "featured": false,
       "apkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/apps/com.tivo.wacalatino-54623-d9a09c8ff46c.apk"
+    },
+    {
+      "packageName": "com.tivo.xuperwaca",
+      "versionCode": 43505,
+      "versionName": "4.35.1",
+      "sizeBytes": 54360935,
+      "sha256": "164ecc08956c5e3eba0dce48cef32a600663ede70a1110e97cc69c25e2d9d2a3",
+      "name": "XuperWaca",
+      "description": "🥑 XuperWaca películas, series y TV en vivo con estilo Wacamole, búsqueda automática con teclado Android y DNS optimizado para mejorar la conexión. NO ES ESTABLE, TAMPOCO ES PREMIUM. SI FALLA DEMORARÁ EN ARREGLARSE NO GARANTIAS.",
+      "category": "TV",
+      "featured": false,
+      "apkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/XuperWaca-43505-164ecc08956c.apk",
+      "artworkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/banners/com.tivo.xuperwaca-164ecc08956c.png"
     }
   ]
 }
