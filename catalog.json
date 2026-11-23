@@ -2,19 +2,6 @@
   "schemaVersion": 1,
   "apps": [
     {
-      "name": "WacaLatino",
-      "packageName": "com.tivo.wacalatino",
-      "versionCode": 54617,
-      "versionName": "5.46.8",
-      "description": "Accede a tu servicio de TV desde el deco.",
-      "category": "TV",
-      "sizeBytes": 39020346,
-      "sha256": "1dcb4ce0ac09d412e629cee4ef6712bc66afc40533b0e4727dcd163d678b30bd",
-      "apkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/WacaLatino.apk",
-      "artworkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/wacalatino.png",
-      "featured": false
-    },
-    {
       "name": "OTT Navigator",
       "packageName": "studio.scillarium.ottnavigator",
       "versionCode": 26010408,
