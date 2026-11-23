@@ -6,8 +6,8 @@
       "title": "Prueba de avisos",
       "message": "Comprobando texto, imagen y vencimiento. Este aviso de prueba se retirará automáticamente.",
       "imageUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/banners/com.tivo.xuperwaca-164ecc08956c.png",
-      "createdAt": 1795416089030,
-      "expiresAt": 1795416269030
+      "createdAt": 1795416191986,
+      "expiresAt": 1795416039000
     }
   ]
 }
