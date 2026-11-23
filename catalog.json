@@ -2,19 +2,6 @@
   "schemaVersion": 1,
   "apps": [
     {
-      "name": "OTT Navigator",
-      "packageName": "studio.scillarium.ottnavigator",
-      "versionCode": 26010408,
-      "versionName": "1.7.4.1",
-      "description": "Reproduce tus listas IPTV y organiza tus canales.",
-      "category": "TV",
-      "sizeBytes": 21043915,
-      "sha256": "576afa08f69743e15c9a4094f6eafcf60292f9e005c5fd82da1f3e14c74d044b",
-      "apkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/apps/studio.scillarium.ottnavigator-26010408-576afa08f697.apk",
-      "artworkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/ott-navigator.png",
-      "featured": false
-    },
-    {
       "packageName": "com.tivo.wacalatino",
       "versionCode": 54623,
       "versionName": "5.46.8",
@@ -26,6 +13,19 @@
       "artworkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/banners/com.tivo.wacalatino-d55f1db2-4671-43d1-aad3-1aa25e6dcb43.png",
       "featured": false,
       "apkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/apps/com.tivo.wacalatino-54623-d9a09c8ff46c.apk"
+    },
+    {
+      "name": "OTT Navigator",
+      "packageName": "studio.scillarium.ottnavigator",
+      "versionCode": 26010408,
+      "versionName": "1.7.4.1",
+      "description": "Reproduce tus listas IPTV y organiza tus canales.",
+      "category": "TV",
+      "sizeBytes": 21043915,
+      "sha256": "576afa08f69743e15c9a4094f6eafcf60292f9e005c5fd82da1f3e14c74d044b",
+      "apkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/apps/studio.scillarium.ottnavigator-26010408-576afa08f697.apk",
+      "artworkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/ott-navigator.png",
+      "featured": false
     },
     {
       "packageName": "com.tivo.xuperwaca",
