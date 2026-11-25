@@ -45,8 +45,8 @@
       "downloadPin": {
         "algorithm": "pbkdf2-sha256",
         "iterations": 210000,
-        "salt": "f1ba540147c7dec55ceb943fda9c4f82",
-        "hash": "54f20b491a732a8f57fbcf1fb617d640fd0452bbdcf1a048c89cbddd9c15ba68"
+        "salt": "a7c5de6fcd1d78d077d325ecfacf1be8",
+        "hash": "f0b7c4acb5b877470b9dd4c63dd5ed74035f09f9bdcd2ca99197da388edcb659"
       }
     }
   ]
