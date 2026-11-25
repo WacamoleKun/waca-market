@@ -1,0 +1,20 @@
+name: Preparar APK del Market
+on:
+  repository_dispatch:
+    types: [waca-market-upload]
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      GH_TOKEN: ${{ github.token }}
+      WORKFLOW_COMMIT: ${{ github.sha }}
+    steps:
+      - name: Preparar archivo y publicar en el alojamiento
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api "repos/$GITHUB_REPOSITORY/contents/.github/scripts/market-upload.py?ref=$WORKFLOW_COMMIT" --jq .content | base64 --decode > "$RUNNER_TEMP/market-upload.py"
+          python3 "$RUNNER_TEMP/market-upload.py"
