@@ -42,6 +42,20 @@
       "featured": false,
       "apkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/KawaiiAnimes-2.1.3-250f72d1989d.apk",
       "artworkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/KawaiiAnimes-250f72d1989d.png"
+    },
+    {
+      "packageName": "io.gh.reisxd.tizentube.fortaleza",
+      "versionCode": 1,
+      "versionName": ": Fortaleza EC ®",
+      "sizeBytes": 39476394,
+      "sha256": "a93db38ce1993fa4d356ed045a6e4de5d51a62b2b4d55310e8f49442916a9f37",
+      "name": "YouTube Premium MOD",
+      "description": "Esta version de YouTube no tiene anuncios.",
+      "category": "TV",
+      "displayGroup": "basic",
+      "artworkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/banners/io.gh.reisxd.tizentube.fortaleza-ed67b5fa-fd7d-42d3-be8e-64c0948d777b.png",
+      "featured": false,
+      "apkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/waca-a93db38ce1993fa4d356ed045a6e4de5d51a62b2b4d55310e8f49442916a9f37-e3d9426fa151487a87cdbcf307450c53.apk"
     }
   ]
 }
