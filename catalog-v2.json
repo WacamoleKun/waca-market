@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "packageName": "com.tivo.wacalatino",
+      "versionCode": 54623,
+      "versionName": "5.46.8",
+      "sizeBytes": 39357619,
+      "sha256": "d9a09c8ff46c07f7556674c6f3707f823a5cff2d7468c29bbb05cc9d0305b892",
+      "name": "WacaLatino",
+      "description": "🥑 WacaLatino películas, series y TV en vivo PREMIUM, nueva imagen Wacamole, búsqueda automática y acceso con tu cuenta. 🇨🇱 Conexión DNS integrada para mejorar la carga en redes de Chile.",
+      "category": "TV",
+      "artworkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/banners/com.tivo.wacalatino-d55f1db2-4671-43d1-aad3-1aa25e6dcb43.png",
+      "featured": false,
+      "apkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/apps/com.tivo.wacalatino-54623-d9a09c8ff46c.apk",
+      "displayGroup": "premium"
+    },
+    {
+      "name": "OTT Navigator",
+      "packageName": "studio.scillarium.ottnavigator",
+      "versionCode": 26010408,
+      "versionName": "1.7.4.1",
+      "description": "Reproduce tus listas IPTV y organiza tus canales.",
+      "category": "TV",
+      "sizeBytes": 21043915,
+      "sha256": "576afa08f69743e15c9a4094f6eafcf60292f9e005c5fd82da1f3e14c74d044b",
+      "apkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/apps/studio.scillarium.ottnavigator-26010408-576afa08f697.apk",
+      "artworkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/ott-navigator.png",
+      "featured": false,
+      "displayGroup": "premium"
+    },
+    {
+      "packageName": "com.tivo.xuperwaca",
+      "versionCode": 43505,
+      "versionName": "4.35.1",
+      "sizeBytes": 54360935,
+      "sha256": "164ecc08956c5e3eba0dce48cef32a600663ede70a1110e97cc69c25e2d9d2a3",
+      "name": "XuperWaca",
+      "description": "🥑 XuperWaca películas, series y TV en vivo con estilo Wacamole, búsqueda automática con teclado Android y DNS optimizado para mejorar la conexión. NO ES ESTABLE, TAMPOCO ES PREMIUM. SI FALLA DEMORARÁ EN ARREGLARSE NO GARANTIAS.",
+      "category": "TV",
+      "featured": false,
+      "apkUrl": "https://github.com/WacamoleKun/waca-market/releases/download/catalogo/XuperWaca-43505-164ecc08956c.apk",
+      "artworkUrl": "https://raw.githubusercontent.com/WacamoleKun/waca-market/main/banners/com.tivo.xuperwaca-164ecc08956c.png",
+      "displayGroup": "basic",
+      "downloadPin": {
+        "algorithm": "pbkdf2-sha256",
+        "iterations": 210000,
+        "salt": "f1ba540147c7dec55ceb943fda9c4f82",
+        "hash": "54f20b491a732a8f57fbcf1fb617d640fd0452bbdcf1a048c89cbddd9c15ba68"
+      }
+    }
+  ]
+}
